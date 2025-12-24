@@ -1,13 +1,16 @@
 {
     "launcher": {
         "version": "1.0.0",
-        "url": "https://drive.google.com/uc?export=download&id=ID_DEL_NUEVO_EXE"
+        "url": "https://drive.google.com/uc?export=download&id=1pQ5d8RT9g9sFmrj3dItzPJo6HKJnsmXh"
     },
     "modpack": {
         "latest_version": "1.1.0",
         "base_pack": {
             "version": "1.0.0",
-            "url": "https://www.mediafire.com/file/noitthawxkvue5m/1.0.0_base.zip/file"
+            "url": [
+                "https://dl.dropbox.com/scl/fi/vn9si275z5stvcigdgvw0/1.0.0_base.zip?rlkey=ts8uflg6i4p2drox3vwiuk1et&st=0jhj6ous&dl=1",
+            "https://github.com/noraonive/ERF-Launcher/releases/download/Base/1.0.0_base.zip"
+        ]
         },
         "updates": [
             {
