@@ -4,7 +4,7 @@
         "url": "https://drive.google.com/uc?export=download&id=1pQ5d8RT9g9sFmrj3dItzPJo6HKJnsmXh"
     },
     "modpack": {
-        "latest_version": "1.2.1",
+        "latest_version": "1.2.2",
         "base_pack": {
             "version": "1.0.0",
             "url": [
@@ -30,8 +30,18 @@
                     "mods/invtweaks-1.20.1-1.2.2.jar",
                     "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar"
                 ]
+            },
+                                    {
+                "version": "1.2.2",
+                "url": "https://drive.google.com/uc?export=download&id=1btRJhy9z-oxvwax8rzq2Ia84W4_sO2_P",
+                "delete_files": [
+                    "mods/invtweaks-1.20.1-1.2.2.jar",
+                    "PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
+                    "nemos-inventory-sorting-Forge-1.20.1-1.14.5-all.jar"
+                ]
             }
         ]
+
 
 
 
