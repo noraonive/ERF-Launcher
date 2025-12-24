@@ -8,8 +8,7 @@
         "base_pack": {
             "version": "1.0.0",
             "url": [
-                "https://dl.dropbox.com/scl/fi/vn9si275z5stvcigdgvw0/1.0.0_base.zip?rlkey=ts8uflg6i4p2drox3vwiuk1et&st=0jhj6ous&dl=1",
-            "https://github.com/noraonive/ERF-Launcher/releases/download/Base/1.0.0_base.zip"
+                "https://huggingface.co/datasets/Noraovt/Modpack_base/resolve/main/1.0.0_base.zip?download=true"
         ]
         },
         "updates": [
@@ -21,3 +20,4 @@
     },
     "news_url": "https://drive.google.com/uc?export=download&id=162ZQrG7hxHfYKEUYFw7oyF5cnezyipx1"
 }
+
