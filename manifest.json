@@ -48,6 +48,15 @@
                     "mods/PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
                     "mods/nemos-inventory-sorting-Forge-1.20.1-1.14.5-all.jar"
                 ]
+            },
+                                                          {
+                "version": "1.3.0",
+                "url": "https://drive.google.com/uc?export=download&id=1xaKJGudqa9R6sjjuUMARBpOVGvI4uQyq",
+                "delete_files": [
+                    "mods/invtweaks-1.20.1-1.2.2.jar",
+                    "mods/PassiveSkillTree-1.20.1-BETA-0.7.3a-all.jar",
+                    "mods/nemos-inventory-sorting-Forge-1.20.1-1.14.5-all.jar"
+                ]
             }
         ]
     },
